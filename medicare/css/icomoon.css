@@ -1230,10 +1230,10 @@
 .icon-star:before {
   content: "\e0c1";
 }
-.icon-arrow-left3:before {
+.fa fa-arrow-left:before {
   content: "\e0c2";
 }
-.icon-arrow-right3:before {
+.fa fa-arrow-right:before {
   content: "\e0c3";
 }
 .icon-arrow-up3:before {

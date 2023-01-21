@@ -280,8 +280,8 @@
 				}
 		    },
 		   navText: [
-		      "<i class='icon-arrow-left3 owl-direction'></i>",
-		      "<i class='icon-arrow-right3 owl-direction'></i>"
+		      "<i class='fa fa-arrow-left owl-direction'></i>",
+		      "<i class='fa fa-arrow-right owl-direction'></i>"
 	     	]
 		});
 
@@ -300,8 +300,8 @@
 		//         },
 		//     },
 		//     navText: [
-		//       "<i class='icon-arrow-left3 owl-direction'></i>",
-		//       "<i class='icon-arrow-right3 owl-direction'></i>"
+		//       "<i class='fa fa-arrow-left owl-direction'></i>",
+		//       "<i class='fa fa-arrow-right owl-direction'></i>"
 	 //     	]
 		// })
 	};
